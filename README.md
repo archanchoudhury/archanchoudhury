@@ -27,7 +27,7 @@
 ![CHFI_Certificate-Batch](https://user-images.githubusercontent.com/51078911/115290523-466f2e80-a171-11eb-8147-0a6140d99bf3.png)
 ![CHFI_Training-Batch](https://user-images.githubusercontent.com/51078911/115290532-4a9b4c00-a171-11eb-89d1-053beca22b1c.png)
 ![ECIH_29CA1872405F](https://user-images.githubusercontent.com/51078911/115290534-4b33e280-a171-11eb-9c65-083a2a002775.png)
-![CCSK1-crop](https://user-images.githubusercontent.com/51078911/115290749-89310680-a171-11eb-893c-2a6a8c8e4715.jpg)
+![CCSK1-crop](https://user-images.githubusercontent.com/51078911/115290749-89310680-a171-11eb-893c-2a6a8c8e4715.jpg)<img src="" width="400" height="300">
 
 ## 📫 How to reach me:
 - 📞 [@blackperl_dfir on Twitter](https://twitter.com/blackperl_dfir)
