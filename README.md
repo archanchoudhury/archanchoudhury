@@ -25,12 +25,14 @@
 - Scripting Language:	C, Java, Php, JavaScript, JQuery, HTML5, Bash, VB, RegEx
 
 ## 🏆 Badges(A few in my arsenal):
-<img src="https://user-images.githubusercontent.com/51078911/178154811-b221419c-4b71-4379-89b4-7113289e8dc6.png" width="100" height="100">
-<img src="https://user-images.githubusercontent.com/51078911/115290523-466f2e80-a171-11eb-8147-0a6140d99bf3.png" width="100" height="100">
-<img src="https://user-images.githubusercontent.com/51078911/115290532-4a9b4c00-a171-11eb-89d1-053beca22b1c.png" width="100" height="100">
-<img src="https://user-images.githubusercontent.com/51078911/115290534-4b33e280-a171-11eb-9c65-083a2a002775.png" width="100" height="100">
-<img src="https://user-images.githubusercontent.com/51078911/115290749-89310680-a171-11eb-893c-2a6a8c8e4715.jpg" width="100" height="100">
-<img src="https://user-images.githubusercontent.com/51078911/115291814-d1045d80-a172-11eb-9db8-db3295496664.png" width="100" height="100">
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/51078911/178154811-b221419c-4b71-4379-89b4-7113289e8dc6.png" width="100" height="100">
+  <img src="https://user-images.githubusercontent.com/51078911/115290523-466f2e80-a171-11eb-8147-0a6140d99bf3.png" width="100" height="100">
+  <img src="https://user-images.githubusercontent.com/51078911/115290532-4a9b4c00-a171-11eb-89d1-053beca22b1c.png" width="100" height="100">
+  <img src="https://user-images.githubusercontent.com/51078911/115290534-4b33e280-a171-11eb-9c65-083a2a002775.png" width="100" height="100">
+  <img src="https://user-images.githubusercontent.com/51078911/115290749-89310680-a171-11eb-893c-2a6a8c8e4715.jpg" width="100" height="100">
+  <img src="https://user-images.githubusercontent.com/51078911/115291814-d1045d80-a172-11eb-9db8-db3295496664.png" width="100" height="100">
+</p>
 
 ## 📫 How to reach me:
 - 📞 [@blackperl_dfir on Twitter](https://twitter.com/blackperl_dfir)
